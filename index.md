@@ -23,24 +23,30 @@ Place: ECS Building, r. 3102
 * Week 5 - September 26 - (no class)
 * Week 6 - October 3 - [Long-lived connections, pipelines](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-05-long-lived-connections-pipelines.ppt)
 * Week 7 - October 10 - [Range and Partial Content](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-07-range-partial-content.ppt)
-* Week 8 - October 17 - Transfer encodings, content encodings
-* Week 9 - October 24 - Content Negotiation
-* Week 10 - October 31 - Authentication
-* Week 11 - November 7 - Unsafe methods (PUT, POST, DELETE)
-* Week 12 - November 14 - Server-side execution
+* Week 8 - October 17 - [Transfer encodings, content encodings](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-08-transfer-content-encodings.ppt)
+* Week 9 - October 24 - [Content Negotiation](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-09-content-negotiation.ppt)
+* Week 10 - October 31 - [Authentication](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-10-authentication.ppt)
+* Week 11 - November 7 - [Unsafe methods](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-11-unsafe-methods.ppt)
+* Week 12 - November 14 - [Server-side execution](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-12-server-side-execution.ppt)
 * Week 13 - November 21 - (Thanksgiving -- no class)
-* Week 14 - November 28 - WARC
-* Week 15 - December 5 - Caching
+* Week 14 - November 28 - [HTTP Method Support](http://ws-dl.blogspot.com/2014/05/2014-05-08-support-for-various-http.html), [HTTPMailbox](http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html), [WARC](https://iipc.github.io/warc-specifications/) [(slides)](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-14-warc.pdf), and [REST/HATEOAS](http://ws-dl.blogspot.com/2013/11/2013-11-19-rest-hateoas-and-follow-your.html).
+* Week 15 - December 5 - [HTTP/2, HTTP/3](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-15-http2-http3.ppt)
+
 * Week 16 - December 12 - Exam Week
 
 ### Assignments (subject to change)
 * Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
 * Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
-* Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- A1 test files ([repo](https://github.com/phonedude/cs531-f18/tree/master/www-root/a1-test),[.tar.gz](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz))
-* Assignment 2: [due 2018-10-24](assignments/assignment-2.md)
-* Assignment 3: due 2018-11-14
-* Assignment 4: due 2018-11-28
-* Assignment 5: due 2018-12-12
+* Assignment 0-2: [due 2018-10-30](assignments/assignment-0-2.md)
+* Assignment 0-3: [due 2018-11-10](assignments/assignment-0-3.md)
+* Assignment 0-4: [due 2018-11-30](assignments/assignment-0-4.md)
+* Assignment 0-5: [due 2018-12-14](assignments/assignment-0-5.md)
+* Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- [A1 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz)
+* Assignment 2: [due 2018-10-24](assignments/assignment-2.md) -- [A2 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a2-test.tar.gz)
+* Assignment 3: [due 2018-11-19](assignments/assignment-3.md) -- [A3 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a3-test.tar.gz)
+* Assignment 4: [due 2018-12-07](assignments/assignment-4.md) -- [A4 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a4-test.tar.gz)
+* Assignment 5: [due 2018-12-14](assignments/assignment-5.md) -- [A5 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a5-test.tar.gz)
+
 
 ### Request for Comments (RFCs)
 #### Historical RFCs
@@ -58,4 +64,6 @@ Place: ECS Building, r. 3102
 * [RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232)
 * [RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://tools.ietf.org/html/rfc7233)
 * [RFC 7234: Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234)
- * [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+* [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+* [RFC 7616: HTTP Digest Access Authentication](https://tools.ietf.org/html/rfc7616)
+* [RFC 7617: The 'Basic' HTTP Authentication Scheme](https://tools.ietf.org/html/rfc7617)
